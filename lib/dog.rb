@@ -14,5 +14,5 @@ class Dog
   
 end
 
-joe = Person.new("Joe")
-joe.name
+fido = Dog.new("Joe", "Mutt")
+fido.name
