@@ -10,5 +10,5 @@ class Person
   
 end
 
-Joe = Person.new("Joe")
-fido.name
+joe = Person.new("Joe")
+joe.name
